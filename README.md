@@ -1,1 +1,1 @@
-# Philips-Fullstack-Develope
+# Philips-Fullstack-Developer
